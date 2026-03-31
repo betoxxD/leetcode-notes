@@ -46,5 +46,5 @@ num = 0;
 ## Problemas relacionados
 - Min Stack — Medium
 - Evaluate Reverse Polish Notation — Medium
-- Basic Calculator — Hard
+- [[basic-calculator|Basic Calculator]] — Hard
 - Simplify Path — Medium
