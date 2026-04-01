@@ -4,7 +4,7 @@
 **Tema(s):** [[linked-list|Linked List]], algoritmo de Floyd (liebre/tortuga)
 **Tiempo invertido:** 1 hora (15 min solución simple, 45 min solución óptima)
 **URL:** https://leetcode.com/problems/linked-list-cycle
-**Diario:** [[2026-03-31]]
+**Diario:** [[reviewed/diario/2026-03-31]]
 
 ## Descripción breve
 Dado el `head` de una linked list, determinar si la lista contiene un ciclo (algún nodo apunta a un nodo anterior).
